@@ -8,11 +8,11 @@ An advanced AI-powered research assistant designed to streamline and enhance fin
 * Flexible & Scalable: Engineered for adaptability across a wide range of financial use cases — from institutional research to individual portfolio analysis.
 
 🧩 Tech Stack
-Python
-LlamaIndex
-Groq API
-Tavily Search API
-Yahoo Finance API
+* Python
+* LlamaIndex
+* Groq API
+* Tavily Search API
+* Yahoo Finance API
 
 📈 Example Use Cases
 “What are the recent earnings highlights for Tesla?”
