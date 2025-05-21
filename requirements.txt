@@ -4,3 +4,4 @@ python-dotenv
 streamlit
 nltk
 llama_index-tools-yahoo-finance
+llama_index-tools-tavily-research
