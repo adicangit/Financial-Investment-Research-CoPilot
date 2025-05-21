@@ -17,7 +17,7 @@ TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 with st.sidebar:
     groq_api_key = st.text_input("Groq API Key", key="chatbot_api_key", type="password")
     "[Get a Groq API key](https://console.groq.com/keys?_gl=1*12oc5uy*_ga*MTA0MDc4MTIzLjE3NDc3MzQyMDE.*_ga_4TD0X2GEZG*czE3NDc4MTYyMzYkbzMkZzEkdDE3NDc4MTY4NjEkajAkbDAkaDA.)"
-    "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
+    "[View the source code](https://github.com/adicangit/Financial-Investment-Research-CoPilot/blob/main/app.py)"
 
 # Initialize LLM
 llm = Groq(model="llama-3.3-70b-versatile", api_key = groq_api_key)
