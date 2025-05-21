@@ -3,3 +3,4 @@ yfinance
 python-dotenv
 streamlit
 nltk
+llama_index-tools-yahoo-finance
